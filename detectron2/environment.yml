@@ -1,0 +1,32 @@
+name: detectron2
+channels:
+  - pytorch
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch==1.9.1
+  - torchvision
+  - cudatoolkit=11.0
+  - pywin32
+  - numpy
+  - git
+  - pip
+  - pip:
+    - fastapi>=0.88.0
+    - numpy==1.23.4
+    - opencv_python==4.6.0.66
+    - pydantic==1.10.2
+    - pymongo==4.3.3
+    - python_jose==3.3.0
+    - uvicorn[standard]
+    - python-multipart
+    - websockets==10.3
+    - passlib
+    - httpx
+    - git+https://github.com/facebookresearch/detectron2.git@v0.3
+
+
+
+  
