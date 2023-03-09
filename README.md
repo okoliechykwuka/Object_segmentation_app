@@ -15,3 +15,11 @@ This will start the app on the default port 8000. To use the app, navigate to ht
 Please note that this app is intended for educational and demonstration purposes only.
 
 For more information on how to use the app, please refer to the documentation and comments in the source code.
+
+**App Interface**
+
+
+![Homepage](https://github.com/okoliechykwuka/Object_segmentation_app/blob/main/detectron2/Screenshot%202023-03-09%20210403.png)
+
+
+![Detection page](https://github.com/okoliechykwuka/Object_segmentation_app/blob/main/detectron2/image.png)
